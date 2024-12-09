@@ -1,0 +1,9 @@
+/.venv
+/.vscode
+/tripdata.pkl
+/tripdata.csv
+/*/mlartifacts
+/*/mlruns
+/*/__pycache__
+/*/.ipynb_checkpoints
+/*/.pytest
